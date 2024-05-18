@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #212529; /* Updated Bootstrap Dark Grey */
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    color: #6c757d; /* Updated Bootstrap Light Grey */
+    font-size: 5rem; /* Increase the font size */
+    font-weight: 500; /* Light */
+}
